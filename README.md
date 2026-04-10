@@ -154,19 +154,7 @@ public class AbhiramNetha {
       </p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <!-- <h3>🤖 AI/ML at VISWAM AI</h3>
-      <p><strong>Internship – AI Developer</strong></p>
-      <p>Built and optimized ML models using TensorFlow & PyTorch. Worked with neural networks, hyperparameter tuning, feature engineering and model deployment pipelines.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-</table> -->
+</table>
 
 ---
 
