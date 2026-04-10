@@ -119,6 +119,30 @@ public class AbhiramNetha {
       </a>
     </td>
     <td width="50%" valign="top">
+      <h3>🔧Way2Fresher</h3>
+      <p><strong>Learn. Prepare. Succeed</strong></p>
+      <p>"Way2Fresher is an all-in-one placement preparation platform that equips students with curated DSA sheets, aptitude roadmaps, and core subject materials to confidently launch their tech careers."</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+      </p>
+        <a href="https://careermap-xptu.vercel.app/">
+        <img src="https://img.shields.io/badge/🔗 Live Demo-1F4E79?style=for-the-badge"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔧 Techi-E-Repair</h3>
+      <p><strong>Appliance Service Platform</strong></p>
+      <p>Full-stack service marketplace connecting customers, technicians, and sellers with real-time service tracking, role-based dashboards, and streamlined workflows.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3>🎯 Skillence – JobQuest</h3>
       <p><strong>Interview Preparation Platform</strong></p>
       <p>Diagnostic-based placement prep system with adaptive learning, personalized weakness analysis, role-based dashboards, and aptitude/DSA assessments.</p>
@@ -132,17 +156,7 @@ public class AbhiramNetha {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔧 Techi-E-Repair</h3>
-      <p><strong>Appliance Service Platform</strong></p>
-      <p>Full-stack service marketplace connecting customers, technicians, and sellers with real-time service tracking, role-based dashboards, and streamlined workflows.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 AI/ML at VISWAM AI</h3>
+      <!-- <h3>🤖 AI/ML at VISWAM AI</h3>
       <p><strong>Internship – AI Developer</strong></p>
       <p>Built and optimized ML models using TensorFlow & PyTorch. Worked with neural networks, hyperparameter tuning, feature engineering and model deployment pipelines.</p>
       <p>
@@ -152,7 +166,7 @@ public class AbhiramNetha {
       </p>
     </td>
   </tr>
-</table>
+</table> -->
 
 ---
 
