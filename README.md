@@ -161,35 +161,6 @@ public class AbhiramNetha {
 **🏢 AI Developer Intern** @ VISWAM AI *(July 2025 – September 2025)*
 > Developed ML models with TensorFlow & PyTorch · Hyperparameter tuning · Neural network optimization · Cross-functional team collaboration
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AbhiramNetha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=1F4E79&text_color=ffffff" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiramNetha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&text_color=ffffff" height="165"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=AbhiramNetha&theme=tokyonight&hide_border=true&background=0D1117&ring=00B4D8&fire=1F4E79&currStreakLabel=00B4D8)](https://github.com/AbhiramNetha)
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Abhiram's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AbhiramNetha&bg_color=0D1117&color=00B4D8&line=1F4E79&point=00B4D8&area=true&hide_border=true)](https://github.com/AbhiramNetha)
-
-</div>
-
----
-
 
 ## 🎓 Education
 
