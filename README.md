@@ -180,55 +180,6 @@ public class AbhiramNetha {
 </div>
 
 ---
-## 🐍 Snake Eating My Contributions
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbhiramNetha/AbhiramNetha/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbhiramNetha/AbhiramNetha/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/AbhiramNetha/AbhiramNetha/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-</div>
-
-<details>
-<summary>⚙️ Click here to activate the Snake animation</summary>
-
-Create this file in your profile repo: `.github/workflows/snake.yml`
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: AbhiramNetha
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Then go to **Actions tab → Run workflow manually** once to generate it for the first time!
-
-</details>
-
----
 
 ## 📈 Activity Graph
 
