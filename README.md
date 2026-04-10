@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4E79,100:00B4D8&height=200&section=header&text=Pamu%20Abhiram&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20React&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
@@ -11,8 +11,26 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhiramnetha17@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Live%20Project-00B4D8?style=for-the-badge&logo=vercel&logoColor=white)](https://abhiramnethafitfuelai.vercel.app/)
 
+</div> -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4E79,100:00B4D8&height=200&section=header&text=Pamu%20Abhiram&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20React&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+
+<!-- 🔤 TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Abhiram+👋;Final+Year+CSE+Student+%40+ACE+College;Java+%7C+Spring+Boot+%7C+React+Developer;Building+Scalable+Backend+Systems+🚀;Open+to+Java+Developer+Internships!+💼" alt="Typing SVG" />
+
 </div>
 
+<br/>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pamuabhiram)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbhiramNetha)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhiramnetha17@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Live%20Project-00B4D8?style=for-the-badge&logo=vercel&logoColor=white)](https://abhiramnethafitfuelai.vercel.app/)
+
+</div>
 ---
 
 ## 👋 About Me
@@ -38,6 +56,17 @@ public class AbhiramNetha {
 ---
 
 ## 🛠️ Tech Stack
+
+<div align="center">
+
+<!-- Animated skill icons grid -->
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,react,nextjs,typescript,python,cpp&theme=dark&perline=8" />
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,docker,git,linux,vscode&theme=dark&perline=8" />
+
+</div>
+
+<br/>
 
 ### 💻 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -70,7 +99,6 @@ public class AbhiramNetha {
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
 ---
 
 ## 🚀 Featured Projects
@@ -152,6 +180,66 @@ public class AbhiramNetha {
 </div>
 
 ---
+## 🐍 Snake Eating My Contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbhiramNetha/AbhiramNetha/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbhiramNetha/AbhiramNetha/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AbhiramNetha/AbhiramNetha/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+</div>
+
+<details>
+<summary>⚙️ Click here to activate the Snake animation</summary>
+
+Create this file in your profile repo: `.github/workflows/snake.yml`
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: AbhiramNetha
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Then go to **Actions tab → Run workflow manually** once to generate it for the first time!
+
+</details>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Abhiram's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AbhiramNetha&bg_color=0D1117&color=00B4D8&line=1F4E79&point=00B4D8&area=true&hide_border=true)](https://github.com/AbhiramNetha)
+
+</div>
+
+---
+
 
 ## 🎓 Education
 
@@ -165,8 +253,9 @@ public class AbhiramNetha {
 
 - 🔵 **Spring Boot** — Microservices & REST API architecture
 - ⚡ **System Design** — Scalable backend patterns
-- 🧠 **DSA** — Advanced problem solving
+- 🧠 **DSA** — Advanced problem solving on LeetCode
 - ☁️ **Cloud** — AWS basics & deployment
+
 
 ---
 
@@ -176,6 +265,8 @@ public class AbhiramNetha {
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pamuabhiram)
 [![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhiramnetha17@gmail.com)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=AbhiramNetha&color=00B4D8&style=for-the-badge&label=PROFILE+VIEWS)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:1F4E79&height=120&section=footer&animation=fadeIn" width="100%"/>
 
