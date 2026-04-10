@@ -1,8 +1,8 @@
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4E79,100:00B4D8&height=200&section=header&text=Pamu%20Abhiram&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20React&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/> 
-<div align="center"> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4E79,100:00B4D8&height=200&section=header&text=Pamu%20Abhiram&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20React&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/> 
+<div align="center">
 
 <!-- 🕷️ SPIDER WEB BACKGROUND HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1B2A,100:00B4D8&height=260&section=header&text=Pamu%20Abhiram&fontSize=65&fontColor=ffffff&fontAlignY=45&desc=Full-Stack%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20React&descAlignY=63&descSize=18&animation=fadeIn&stroke=00B4D8&strokeWidth=2" width="100%"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1B2A,100:00B4D8&height=260&section=header&text=Pamu%20Abhiram&fontSize=65&fontColor=ffffff&fontAlignY=45&desc=Full-Stack%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20React&descAlignY=63&descSize=18&animation=fadeIn&stroke=00B4D8&strokeWidth=2" width="100%"/> -->
 
 <!-- 🔤 TYPING ANIMATION -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Abhiram+👋;Final+Year+CSE+Student+%40+ACE+College;Java+%7C+Spring+Boot+%7C+React+Developer;Building+Scalable+Backend+Systems+🚀;Open+to+Java+Developer+Internships!+💼" alt="Typing SVG" />
