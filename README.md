@@ -1,23 +1,11 @@
-<!-- <div align="center">
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4E79,100:00B4D8&height=200&section=header&text=Pamu%20Abhiram&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20React&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/> 
+<div align="center"> -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4E79,100:00B4D8&height=200&section=header&text=Pamu%20Abhiram&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20React&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
-
-</div>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pamuabhiram)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbhiramNetha)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhiramnetha17@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Live%20Project-00B4D8?style=for-the-badge&logo=vercel&logoColor=white)](https://abhiramnethafitfuelai.vercel.app/)
-
-</div> -->
-<!-- <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1F4E79,100:00B4D8&height=250&section=header&text=Pamu%20Abhiram&fontSize=60&fontColor=ffffff&fontAlignY=45&desc=Full-Stack%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20React&descAlignY=62&descSize=18&animation=fadeIn&stroke=ffffff&strokeWidth=1" width="100%"/> -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4E79,100:00B4D8&height=200&section=header&text=Pamu%20Abhiram&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20React&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/> 
+<!-- 🕷️ SPIDER WEB BACKGROUND HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1B2A,100:00B4D8&height=260&section=header&text=Pamu%20Abhiram&fontSize=65&fontColor=ffffff&fontAlignY=45&desc=Full-Stack%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20React&descAlignY=63&descSize=18&animation=fadeIn&stroke=00B4D8&strokeWidth=2" width="100%"/>
 
 <!-- 🔤 TYPING ANIMATION -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Abhiram+👋;Final+Year+CSE+Student+%40+ACE+Engineering+Clg;Java+%7C+Spring+Boot+%7C+React+Developer;Building+Scalable+Backend+Systems+🚀;Open+to+Java+Developer+Internships!+💼" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Abhiram+👋;Final+Year+CSE+Student+%40+ACE+College;Java+%7C+Spring+Boot+%7C+React+Developer;Building+Scalable+Backend+Systems+🚀;Open+to+Java+Developer+Internships!+💼" alt="Typing SVG" />
 
 </div>
 
@@ -29,7 +17,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbhiramNetha)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhiramnetha17@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Live%20Project-00B4D8?style=for-the-badge&logo=vercel&logoColor=white)](https://abhiramnethafitfuelai.vercel.app/)
+
 </div>
+
 ---
 
 ## 👋 About Me
@@ -98,6 +88,17 @@ public class AbhiramNetha {
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AbhiramNetha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/AbhiramNetha)
+
+</div>
+
 ---
 
 ## 🚀 Featured Projects
@@ -119,29 +120,21 @@ public class AbhiramNetha {
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>🔧Way2Fresher</h3>
-      <p><strong>Learn. Prepare. Succeed</strong></p>
-      <p>"Way2Fresher is an all-in-one placement preparation platform that equips students with curated DSA sheets, aptitude roadmaps, and core subject materials to confidently launch their tech careers."</p>
+      <h3>🎓 Way2Fresher</h3>
+      <p><strong>Learn. Prepare. Succeed.</strong></p>
+      <p>All-in-one placement preparation platform with curated DSA sheets, aptitude roadmaps, and core subject materials to confidently launch tech careers.</p>
       <p>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
         <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
       </p>
-        <a href="https://careermap-xptu.vercel.app/">
+      <a href="https://careermap-xptu.vercel.app/">
         <img src="https://img.shields.io/badge/🔗 Live Demo-1F4E79?style=for-the-badge"/>
       </a>
     </td>
-    <td width="50%" valign="top">
-      <h3>🔧 Techi-E-Repair</h3>
-      <p><strong>Appliance Service Platform</strong></p>
-      <p>Full-stack service marketplace connecting customers, technicians, and sellers with real-time service tracking, role-based dashboards, and streamlined workflows.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-      </p>
-    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🎯 Skillence – JobQuest</h3>
       <p><strong>Interview Preparation Platform</strong></p>
@@ -151,6 +144,16 @@ public class AbhiramNetha {
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔧 Techi-E-Repair</h3>
+      <p><strong>Appliance Service Platform</strong></p>
+      <p>Full-stack service marketplace connecting customers, technicians, and sellers with real-time service tracking, role-based dashboards, and streamlined workflows.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
       </p>
     </td>
   </tr>
@@ -163,6 +166,84 @@ public class AbhiramNetha {
 **🏢 AI Developer Intern** @ VISWAM AI *(July 2025 – September 2025)*
 > Developed ML models with TensorFlow & PyTorch · Hyperparameter tuning · Neural network optimization · Cross-functional team collaboration
 
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AbhiramNetha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=1F4E79&text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiramNetha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&text_color=ffffff" height="165"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=AbhiramNetha&theme=tokyonight&hide_border=true&background=0D1117&ring=00B4D8&fire=1F4E79&currStreakLabel=00B4D8)](https://github.com/AbhiramNetha)
+
+</div>
+
+---
+
+## 🐍 Snake Eating My Contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbhiramNetha/AbhiramNetha/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbhiramNetha/AbhiramNetha/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AbhiramNetha/AbhiramNetha/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+</div>
+
+<details>
+<summary>⚙️ Click here to activate the Snake animation</summary>
+
+Create this file in your profile repo: `.github/workflows/snake.yml`
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: AbhiramNetha
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Go to **Actions tab → Run workflow manually** once to generate it!
+
+</details>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Abhiram's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AbhiramNetha&bg_color=0D1117&color=00B4D8&line=1F4E79&point=00B4D8&area=true&hide_border=true)](https://github.com/AbhiramNetha)
+
+</div>
+
+---
 
 ## 🎓 Education
 
@@ -179,7 +260,6 @@ public class AbhiramNetha {
 - 🧠 **DSA** — Advanced problem solving on LeetCode
 - ☁️ **Cloud** — AWS basics & deployment
 
-
 ---
 
 <div align="center">
@@ -191,6 +271,7 @@ public class AbhiramNetha {
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=AbhiramNetha&color=00B4D8&style=for-the-badge&label=PROFILE+VIEWS)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:1F4E79&height=120&section=footer&animation=fadeIn" width="100%"/>
+<!-- 🕷️ SPIDER WEB FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00B4D8,100:0D1B2A&height=150&section=footer&animation=fadeIn&stroke=00B4D8&strokeWidth=2" width="100%"/>
 
 </div>
