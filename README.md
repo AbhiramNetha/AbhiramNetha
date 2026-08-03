@@ -160,6 +160,14 @@ public class AbhiramNetha {
 
 ## 💼 Experience
 
+**🏢 Full Stack Developer Intern** @ Way2Freshers *(November 2025 – Present)*
+> Engineered a comprehensive full-stack application, leveraging React.js to build a highly responsive
+frontend and Node.js to establish a scalable backend architecture.
+> Implemented secure user authentication workflows using Firebase and designed robust, relational
+database schemas utilizing PostgreSQL.
+>Accelerated UI development and improved user experience by strategically integrating React Bits
+components
+
 **🏢 AI Developer Intern** @ VISWAM AI *(July 2025 – September 2025)*
 > Developed ML models with TensorFlow & PyTorch · Hyperparameter tuning · Neural network optimization · Cross-functional team collaboration
 
